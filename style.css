@@ -1,0 +1,73 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+  p{
+      text-align:center;
+      color:red;
+      font-size:35px;
+      font-family:fantasy;
+      text-transform:uppercase;
+  
+  }
+  body{
+    background-color:white;
+  }
+  #message{
+      font-family:monospace;
+      text-transform:capitalize;
+      color:darkgreen;
+      font-size:17px;
+  
+  }
+  #birthday{
+      z-index:1;
+      position:absolute;
+  }
+  #surprise{
+      z-index:0;
+      position:absolute;
+  }
+  button{
+      border:solid black;
+      border-radius:50px;
+      color:red;
+      background-color:white;
+      padding:17px 35px;
+      display:block;
+      margin:0 auto 0 auto;
+  }
+  img{
+      width: 300px;
+      height:150px;
+      display:block;
+      margin:0 auto 0 auto;
+      background-color:white;
+  
+  }
+  .hey{
+      transform: rotate(90deg)
+  }
+  #haha{
+    color: pink;
+    font-family: monospace;
+    font-size: 17px;
+  }
+  #me{
+    color:deeppink;
+    text-transform:uppercase;
+  }
+  #hooya{
+    color: deeppink;
+    text-transform :uppercase;
+    
+  }
+  #goback{
+      border:solid black;
+      border-radius:50px;
+      color:hotpink;
+      background-color:white;
+      padding:17px 35px;
+      display:block;
+      margin:0 auto 0 auto;
+  }
